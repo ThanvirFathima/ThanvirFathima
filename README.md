@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ThanvirFathima
+-    I know Tableau,SQL 
 - 👀 I’m interested in Learning Python
 - 🌱 I’m currently learning both AWS & Python
 - 💞️ I’m looking to collaborate on AWS & Python Related Projects
